@@ -1,4 +1,4 @@
-Integration testing: [![CircleCI](https://circleci.com/gh/agt24/workflow_challenge.svg?style=shield&circle-token=742274cfd7bd81d4c33df1ce864b2f6ba5ecf894)](https://circleci.com/gh/agt24/worflow_challenge)
+Integration testing: [![CircleCI](https://circleci.com/gh/agt24/workflow_challenge.svg?style=shield&circle-token=742274cfd7bd81d4c33df1ce864b2f6ba5ecf894)](https://circleci.com/gh/agt24/workflow_challenge)
 
 ## Imaging data science and sharing team challenge
 
